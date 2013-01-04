@@ -1,8 +1,8 @@
 Sauce Labs and Atlassian Bamboo Tutorials
 ============
-These tutorials explain how to use integrate [Bamboo](http://www.atlassian.com/software/bamboo) with tests run with the Sauce Labs cloud of Selenium servers. 
+These tutorials explain how to use integrate [Atlassian Bamboo](http://www.atlassian.com/software/bamboo) with tests run with the Sauce Labs cloud of Selenium servers.
 
-We assume that you have some familiarity with Jenkins and the fundamentals of automated testing. However, even if this is your first time using Jenkins and automated testing you should be able to successfully follow these step-by-step instructions. 
+We assume that you have some familiarity with Bamboo and the fundamentals of automated testing. However, even if this is your first time using Bamboo and automated testing you should be able to successfully follow these step-by-step instructions.
 
 Let's get started!
 

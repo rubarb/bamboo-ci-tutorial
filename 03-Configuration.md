@@ -13,4 +13,6 @@ Click on the `Sauce OnDemand` link within the `Communication` section.
 
 This section contains the fields required to configure how the authentication for the Sauce plugin.  Enter the values of the username and access key you wish the Sauce plugin to use in the `Username` and `API Access Key fields`.
 
-If the tests being executed will use Sauce Connect, then enter `localhost` and `4445` in the `Host` and `Port` fields.  If not, then enter `ondemand.saucelabs.com` and `4444` in the `Host` and `Port` fields.
+Once the authentication details have been entered and saved on the `Sauce OnDemand` screen, you can then enable Sauce support on the Configuration screen for a Bamboo Job.
+
+* _Next_: [Bamboo Job Configuration](##04-Job-Configuration.md##)

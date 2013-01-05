@@ -27,7 +27,7 @@ Enter `https://github.com/rossrowe/sauce-ci-python-demo` in the `Repository URL`
 
 Enter `master` in the `Branch` field
 
-![New Plan Details](##new-plan-details.png##)
+![Source Repository Details](##plan-git.png##)
 
 Click the `Configure Tasks` button to continue.
 

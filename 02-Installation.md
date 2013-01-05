@@ -25,4 +25,6 @@ The plugin jar is quite large, so the download process might take a while.
 
 After the plugin has been installed, we will need to restart Bamboo for the plugin to be loaded.
 
+Once Bamboo has been restarted, we can then configure the plugin to work with our environment.
+
 * _Next_: [Configuring the Sauce Bamboo plugin](##03-Configuration.md##)

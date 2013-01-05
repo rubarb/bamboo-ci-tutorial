@@ -27,7 +27,7 @@ Enter `https://github.com/rossrowe/sauce-ci-java-demo` in the `Repository URL` f
 
 Enter `master` in the `Branch` field
 
-![New Plan Details](##new-plan-details.png##)
+![Source Repository Details](##plan-git.png##)
 
 Click the `Configure Tasks` button to continue.
 
@@ -44,8 +44,6 @@ Click the `Maven Task 3.x` link.
 Enter `Run Tests` in the `Task Description` field.  Click the `Save` button.
 
 The default values entered should be fine, so click the `Create` button.  We need to enter the Sauce configuration after the plan has been configured, so don't select the `Enable this plan` checkbox just yet.
-
-TODO include Save image
 
 Click the `Default Job` link on the left-hand navigation pane.
 

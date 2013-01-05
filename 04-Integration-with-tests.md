@@ -1,4 +1,4 @@
-Integrating tests with the Jenkins Sauce OnDemand plugin
+Integrating tests with the Bamboo Sauce OnDemand plugin
 =============
 
 To run the tests, go the Bamboo dashboard. The plan wasn't enabled when we it was created, so click the `Enable plan` image.

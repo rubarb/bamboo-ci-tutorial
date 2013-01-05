@@ -9,7 +9,7 @@ To configure the authentication, click the `Administration` link.
 
 Click on the `Sauce OnDemand` link within the `Communication` section.
 
-![Sauce Admin Link](##admin-sauce-link.png##)
+![Sauce Admin Link](##admin_sauce_link.png##)
 
 This section contains the fields required to configure how the authentication for the Sauce plugin.  Enter the values of the username and access key you wish the Sauce plugin to use in the `Username` and `API Access Key fields`.
 

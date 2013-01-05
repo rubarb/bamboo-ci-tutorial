@@ -15,4 +15,4 @@ Table of Contents
 * [Bamboo Build Configuration for a Java project](##04-Job-Configuration.md##)
 * [Bamboo Build Configuration for a Python project](##04-Python-Job-Configuration.md##)
 * [Integration with tests](##04-Integration-with-tests.md##)
-* [Troubleshooting issues with the plugin](##07-Troubleshooting.md##)
+* [Troubleshooting issues with the plugin](##06-Troubleshooting.md##)

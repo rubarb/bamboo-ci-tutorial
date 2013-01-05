@@ -76,4 +76,4 @@ WebDriver webDriver = SeleniumFactory.createWebDriver();
 
 Implementations of the library exist for [Java](https://github.com/infradna/selenium-client-factory) and [Python](http://sauceio.com/index.php/2012/01/selenium-client-factory-for-python/)
 
-* _Next_: [Multi-configuration projects](##05-Multi-configuration.md##)
+* _Next_: Have a Python project? Check out the [Python job configuration](##04-Python-Job-Configuration.md##) instead.

@@ -19,9 +19,9 @@ Clicking on one of the links will present a page containing the Sauce report, wh
 
 ![Sauce Report](##sauce-report.png##)
 
-That's it, we've successfully configured Jenkins to run our tests against Sauce OnDemand!
+That's it, we've successfully configured Bamboo to run our tests against Sauce OnDemand!
 
-To summarise, in order to make the most use out of the Sauce Jenkins plugin, the following steps should be performed:
+To summarise, in order to make the most use out of the Sauce Bamboo plugin, the following steps should be performed:
 
 * Update tests to reference the environment variables set by the plugin
 * Output the Sauce session id to the stdout to allow the Sauce plugin to associate test results to Sauce Jobs
@@ -29,11 +29,11 @@ To summarise, in order to make the most use out of the Sauce Jenkins plugin, the
 Referencing Job Configuration
 ---
 
-As mentioned previously, the Sauce Bamboo plugin will set a series of environment variables that reflect the values entered on the Jenkins Job Configuration screen.
+As mentioned previously, the Sauce Bamboo plugin will set a series of environment variables that reflect the values entered on the Bamboo Job Configuration screen.
 
 Your test code will need to be updated to reference these environment variables.
 
-Below is some sample Java code which demonstrates how to reference the environment variables that are set by the Jenkins plugin
+Below is some sample Java code which demonstrates how to reference the environment variables that are set by the Bamboo plugin
 
 <!-- SAUCE:LOGIN -->
 ```java
